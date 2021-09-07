@@ -3,7 +3,7 @@ const checkCarId = (req, res, next) => {
 }
 
 const checkCarPayload = (req, res, next) => {
-  // DO YOUR MAGIC
+  // DO YOUR MAGI
 }
 
 const checkVinNumberValid = (req, res, next) => {
